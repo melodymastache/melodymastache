@@ -4,6 +4,7 @@ I'm a 2020 computer programming graduate from Seneca College looking for opportu
 
 ### Around the Web
 [LinkedIn](https://www.linkedin.com/in/melody-mastache-605536156/ "Melody's LinkedIn Profile)
+
 [Frontend Mentor](https://www.frontendmentor.io/profile/melodymastache "Melody's Profile on frontendmentor.io")
 
 <!--
