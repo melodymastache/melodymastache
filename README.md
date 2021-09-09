@@ -1,6 +1,6 @@
 ### Hi, I'm Melody Mastache 
 
-I'm a 2020 computer programming graduate from Seneca College looking for opportunities in front-end development and UI/UX Design. I'm currently working on building and expanding my portfolio to showcase my skills in JavaScript and CSS. I'd love to be able to collaborate on a design project with someone who could show me the ropes in the UI/UX industry and what I would need to succeed as as designer. 
+I'm a 2020 computer programming graduate from Seneca College looking for opportunities in front-end development and UI/UX Design. I'm currently working on building and expanding my portfolio to showcase my skills in JavaScript and CSS. I'd love to be able to collaborate on a design project with someone who could show me the ropes in the UI/UX industry and what I would need to succeed as a designer. 
 
 ### Around the Web
 [LinkedIn](https://www.linkedin.com/in/melody-mastache-605536156/ "Melody's LinkedIn Profile")
